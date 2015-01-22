@@ -1,0 +1,162 @@
+@charset "utf-8";
+/* CSS Document */
+
+html,body{
+	margin: 0;
+	padding: 0;
+}
+
+@font-face{
+    font-family:"Short Stack", "Chalkduster", "comic sans MS";
+    src: url('StortStack-Regular.otf') format("opentype"), url('Chalkduster.ttf') format("truetype");
+}
+
+body{
+	background-color:#556272;
+	padding-left:0;
+	padding-right:0;
+	color:#FFF;
+	font-family:"Short Stack", "Chalkduster", "comic sans MS";
+}
+
+#logobar{
+	width: 100%;
+	background-color:#4ECDC4;
+	left: 0;
+	right: 0;
+	height: 140px;
+	/*position:fixed;*/
+	
+}
+
+.header{
+	position: sticky;
+	top:120px;
+}
+
+#logo{
+	height: 130px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#c1, #c2, #c3, #c4, #c5, #c6{
+	width: 70px;
+	padding-top: 10phttp://i.imgur.com/CSCLACY.gifx;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	
+}
+
+#c123{
+	float: left;
+}
+
+#c456{
+	float: right;
+}
+
+h3{
+	color:#C7F464;
+	font-family: Chalkduster;
+}
+
+#identity{
+	padding-top: 15px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align:center;
+}
+
+#name{
+	font-size:30px;
+	color:C7F464;
+	font-family: Chalkduster;
+}
+#status{
+	font-size:16px;
+	color:#C7F464;
+}
+
+#links{
+	padding-top: 10px;
+}
+
+#profileUser{
+	width: 48%;
+	float: left;
+
+}
+
+#profileWall{
+	width: 48%;
+	float: right;
+	padding-right: 1%;
+	padding-left: 1%;
+}
+
+#edit{
+	text-align: center;
+	background-color:#FF6B6B;
+	color:#FFF;
+}
+
+#profilePic{
+	width:100%;
+}
+
+/*GAME SPECIFIC*/
+#gametitle{
+	color: #FF6B6B;
+	text-align:center;
+}
+#howto{
+	float:left;
+	width:45%;
+	padding-left:5%;
+}
+#game{
+	float:right;
+	width:40%;
+	padding-right:10%;
+}
+#game h2{
+	color:#C7F464;
+}
+#game td{
+	padding-right:50px;
+	padding-bottom:10px;
+}
+#game td b{
+	color:#C7F464;
+}
+.gamep{
+	top: 17vw;
+	font-size:20px;	
+}
+.gamep h4{
+	color:#C7F464;
+}
+.gamep table{
+	font-size:24px;
+	border-color: #C7F464;
+}
+
+a:link{
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+a{
+	color:#C44D58;
+}
+a:visited{
+	color: #FF6B6B;
+}

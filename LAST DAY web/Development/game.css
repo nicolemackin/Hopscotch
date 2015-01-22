@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+#whole{
+	width: 800px;
+	margin: auto;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+#logobar{
+	background-color:#007f75;
+	height: 120px;
+	position: fixed;
+}
+
+#logo{
+	width: 200px;
+	padding-left: 300px;
+	padding-right: 300px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#c1, #c2, #c3, #c4, #c5, #c6{
+	width: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#c123{
+	float: left;
+}
+
+#c456{
+	float: right;
+}
+
+#identity{
+	padding-top: 15px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align:center;
+}
+
+#name{
+	font-size:24px;
+}
+
+#links{
+	padding-top: 120px;
+}
+
+#main{
+}
+
+
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	padding: 10px;
+	background-color:#6CC;
+	color:#003;
+	position: relative;
+	margin: 0 auto;
+}
+
+h1,h2,h3,h4{
+	color:#FFF;
+}
+
+li, ul, ol{
+	list-style-position:inside;
+}
+
+table{
+	margin: 0 auto;
+}
+
+.wordlist{
+	border:3px solid #9AFFFF;
+	color:#FC0;
+	border-width:5px;
+	background-color:#0B2B6C;
+	width: 60%;
+	text-align:center;
+}
+.wordlist > tbody > tr > td{
+	border: 2px solid #9AFFFF;
+	border-collapse:collapse;
+	width: 32%;
+}
+a{
+	color:#FFC;
+}
+
+a:hover{
+	color:#FF6;
+}
+
+a:visited{
+	color:#FF0;
+}

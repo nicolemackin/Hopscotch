@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="130px" height="90px" viewBox="870 119 130 90" enable-background="new 870 119 130 90"
+	 xml:space="preserve">
+<defs>
+</defs>
+<rect x="1" fill="#556270" width="1024" height="768"/>
+<rect x="1" fill="#4ECDC4" width="1024" height="120"/>
+<rect y="120" fill="#C7F464" width="1025" height="60"/>
+<rect id="_x3C_Slice_x3E__7_" x="870" y="119" fill="none" width="130" height="90"/>
+<rect x="1" y="180.217" fill="#687887" width="1024" height="28.636"/>
+<polygon fill="#FFFFFF" points="958.057,162.472 940.566,168.541 940.566,128.938 958.057,138.839 "/>
+<path fill="#FFFFFF" d="M927.18,155.645l0.129,13.293c-31.746-24.551,3.072-28.663,3.072-28.663l-0.684-4.152l8.874,6.388
+	l-8.532,7.105l0.342-4.232C930.381,145.385,915.791,145.863,927.18,155.645z"/>
+<text transform="matrix(1 0 0 1 909 199.5728)" fill="#C7F464" font-family="'Comfortaa'" font-size="20">logout</text>
+</svg>
